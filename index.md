@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Danh sách #hashtag trên J2TEAM Community
 
-You can use the [editor on GitHub](https://github.com/kisders1479/khoahoconline/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dàng tìm lại bài viết theo chủ đề sau này, [J2TEAM Community](https://www.facebook.com/groups/j2team.community/) yêu cầu mọi thành viên sử dụng [#hashtag](https://www.facebook.com/help/587836257914341) khi đăng bài trong nhóm.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Lưu ý:**
+- Mọi hashtag phải bắt đầu bằng `j2team_` (giống như namespace) để tránh ảnh hưởng của hashtag trên các bài viết bên ngoài nhóm.
+- Bạn có thể dùng nhiều hashtag trong một bài viết nếu thấy liên quan tới chủ đề bạn muốn chia sẻ.
 
-### Markdown
+## Các hashtag chính (bắt buộc)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+| Hashtag            | Chủ đề, nội dung của bài viết                    |
+|--------------------|--------------------------------------------------|
+| #j2team_question   | Hỏi đáp, thắc mắc                                |
+| #j2team_discussion | Thảo luận về chủ đề nào đó                       |
+| #j2team_share      | Chia sẻ (tài liệu, sách, phần mềm, khóa học,...) |
+| #j2team_relax      | Ảnh, video hoặc nội dung giải trí                |
+| #j2team_tutorial   | Hướng dẫn lập trình hoặc chia sẻ kiến thức       |
+| #j2team_report     | Báo cáo ninja, thành viên hoặc bài viết vi phạm  |
+| #j2team_suggest    | Góp ý cho Ban Quản Trị nhóm                      |
+| #j2team_news       | Tin tức, cập nhật, thông báo từ BQT              |
 
-```markdown
-Syntax highlighted code block
+## Các hashtag phụ (không bắt buộc)
 
-# Header 1
-## Header 2
-### Header 3
+Đây là các hashtag nhỏ để bổ sung cho các hashtag chính giúp phân loại bài viết ra nhiều chủ đề con.
 
-- Bulleted
-- List
+| Hashtag             | Chủ đề, nội dung của bài viết |
+|---------------------|-------------------------------|
+| #j2team_ebook       | Sách, PDF                     |
+| #j2team_course      | Khóa học trực tuyến           |
+| #j2team_software    | Phần mềm                      |
+| #j2team_programming | Lập trình                     |
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kisders1479/khoahoconline/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+(Danh sách hashtag phụ sẽ được cập nhật thêm cho phù hợp với nhóm...)
